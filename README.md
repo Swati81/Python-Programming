@@ -1,2 +1,2 @@
-# python-ineuron-assignmts
-This is my ineuron python assignments
+# python-assignmts
+This is my python assignments
