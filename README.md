@@ -1,2 +1,2 @@
-# python-assignments
-This is my python assignments
+# Python-Programming
+General Python based Questions with Solutions...
